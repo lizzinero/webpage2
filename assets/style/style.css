@@ -71,12 +71,12 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 20px;
     padding: 20px;
-    background-color: #759399;
     font-family: "Alegreya Sans SC", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: x-large;
     text-align: center;
+    background-color: #759399;
 }
 .section-footer {
     background-color: #95C193;
